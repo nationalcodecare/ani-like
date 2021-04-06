@@ -1,0 +1,287 @@
+[
+  {
+    "name": "Demon Slayer",
+    "onGoing": {
+      "day": "monday",
+      "time": "5:00 PM",
+      "emitting": true
+    },
+    "episodes": 24,
+    "aired": 2020,
+    "seasons": [1],
+    "class": "PG",
+    "rating": 9.4,
+    "dub": true,
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adaccusantium expedita neque tempore molestiae vel aliquam, teneturvoluptatum temporibus. Cumque eveniet minus corporis debitis,optio est, earum nisi, natus veniam cupiditate delectus iusto.Odio doloribus adipisci nihil quod numquam quas.",
+    "genre": ["Seinen", "History", "Supernatural"],
+    "author": "Koyoharu Gotōge",
+    "license": "Wakanim",
+    "image": "demon-slayer.jpg"
+  },
+  {
+    "name": "Seven Deadly Sins",
+    "onGoing": {
+      "day": "sunday",
+      "time": "11:00 AM",
+      "emitting": true
+    },
+    "episodes": 24,
+    "aired": 2014,
+    "seasons": [1,2,3],
+    "class": "PG",
+    "rating": 9.7,
+    "dub": true,
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adaccusantium expedita neque tempore molestiae vel aliquam, teneturvoluptatum temporibus. Cumque eveniet minus corporis debitis,optio est, earum nisi, natus veniam cupiditate delectus iusto.Odio doloribus adipisci nihil quod numquam quas.",
+    "genre": ["Seinen", "History", "Supernatural"],
+    "author": "Koyoharu Gotōge",
+    "license": "Wakanim",
+    "image": "Escanor.jpg"
+  },
+  {
+    "name": "Darwin Game",
+    "onGoing": {
+      "day": null,
+      "time": null,
+      "emitting": false
+    },
+    "episodes": 13,
+    "aired": 2020,
+    "seasons": [1],
+    "class": "MA15+",
+    "rating": 9.1,
+    "dub": true,
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adaccusantium expedita neque tempore molestiae vel aliquam, teneturvoluptatum temporibus. Cumque eveniet minus corporis debitis,optio est, earum nisi, natus veniam cupiditate delectus iusto.Odio doloribus adipisci nihil quod numquam quas.",
+    "genre": ["Seinen", "History", "Supernatural"],
+    "author": "Koyoharu Gotōge",
+    "license": "Wakanim",
+    "image": "Darwin.jpg"
+  },
+  {
+    "name": "Goblin Slayer",
+    "onGoing": {
+      "day": null,
+      "time": null,
+      "emitting": false
+    },
+    "episodes": 12,
+    "aired": 2017,
+    "seasons": [1],
+    "class": "R+",
+    "rating": 9.6,
+    "dub": true,
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adaccusantium expedita neque tempore molestiae vel aliquam, teneturvoluptatum temporibus. Cumque eveniet minus corporis debitis,optio est, earum nisi, natus veniam cupiditate delectus iusto.Odio doloribus adipisci nihil quod numquam quas.",
+    "genre": ["Seinen", "Fantazy", "Supernatural"],
+    "author": "Koyoharu Gotōge",
+    "license": "Wakanim",
+    "image": "goblin.png"
+  },
+  {
+    "name": "Tokyo Ghoul",
+    "onGoing": {
+      "day": "thursday",
+      "time": "1:00 PM",
+      "emitting": true
+    },
+    "episodes": 12,
+    "aired": 2014,
+    "seasons": [1,2,3,4],
+    "class": "PG",
+    "rating": 9.6,
+    "dub": true,
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adaccusantium expedita neque tempore molestiae vel aliquam, teneturvoluptatum temporibus. Cumque eveniet minus corporis debitis,optio est, earum nisi, natus veniam cupiditate delectus iusto.Odio doloribus adipisci nihil quod numquam quas.",
+    "genre": ["Drama", "Triller", "Supernatural"],
+    "author": "Koyoharu Gotōge",
+    "license": "Wakanim",
+    "image": "tokyo-ghoul.jpg"
+  },
+  {
+    "name": "One Punch Man",
+    "onGoing": {
+      "day": "tuesday",
+      "time": "9:00 PM",
+      "emitting": true
+    },
+    "episodes": 12,
+    "aired": 2018,
+    "seasons": [1,2],
+    "class": "PG",
+    "rating": 9.8,
+    "dub": true,
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adaccusantium expedita neque tempore molestiae vel aliquam, teneturvoluptatum temporibus. Cumque eveniet minus corporis debitis,optio est, earum nisi, natus veniam cupiditate delectus iusto.Odio doloribus adipisci nihil quod numquam quas.",
+    "genre": ["Seinen", "Comedy", "Supernatural", "Power"],
+    "author": "Koyoharu Gotōge",
+    "license": "Wakanim",
+    "image": "one-punch-man.jpg"
+  },
+  {
+    "name": "Naruto",
+    "onGoing": {
+      "day": null,
+      "time": null,
+      "emitting": false
+    },
+    "episodes": 500,
+    "aired": 2012,
+    "seasons": [1],
+    "class": "PG",
+    "rating": 9.2,
+    "dub": true,
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adaccusantium expedita neque tempore molestiae vel aliquam, teneturvoluptatum temporibus. Cumque eveniet minus corporis debitis,optio est, earum nisi, natus veniam cupiditate delectus iusto.Odio doloribus adipisci nihil quod numquam quas.",
+    "genre": ["Comedy", "Drama", "Supernatural"],
+    "author": "Koyoharu Gotōge",
+    "license": "Wakanim",
+    "image": "naruto.jpg"
+  },
+  {
+    "name": "Bleach",
+    "onGoing": {
+      "day": "friday",
+      "time": "6:45 PM",
+      "emitting": true
+    },
+    "episodes": 346,
+    "aired": 2006,
+    "seasons": [1],
+    "class": "MA15+",
+    "rating": 9.3,
+    "dub": true,
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adaccusantium expedita neque tempore molestiae vel aliquam, teneturvoluptatum temporibus. Cumque eveniet minus corporis debitis,optio est, earum nisi, natus veniam cupiditate delectus iusto.Odio doloribus adipisci nihil quod numquam quas.",
+    "genre": ["Comedy", "Drama", "Supernatural", "Power"],
+    "author": "Koyoharu Gotōge",
+    "license": "Wakanim",
+    "image": "bleach.jpg"
+  },
+  {
+    "name": "Attack On Titan",
+    "onGoing": {
+      "day": "monday",
+      "time": "4:30 PM",
+      "emitting": true
+    },
+    "episodes": 24,
+    "aired": 2015,
+    "seasons": [1,2,3],
+    "class": "PG",
+    "rating": 9.6,
+    "dub": true,
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adaccusantium expedita neque tempore molestiae vel aliquam, teneturvoluptatum temporibus. Cumque eveniet minus corporis debitis,optio est, earum nisi, natus veniam cupiditate delectus iusto.Odio doloribus adipisci nihil quod numquam quas.",
+    "genre": ["Fantazy", "Drama", "Supernatural"],
+    "author": "Koyoharu Gotōge",
+    "license": "Wakanim",
+    "image": "attack-on-titan.jpg"
+  },
+  {
+    "name": "Sword Art Online",
+    "onGoing": {
+      "day": null,
+      "time": null,
+      "emitting": false
+    },
+    "episodes": 24,
+    "aired": 2015,
+    "seasons": [1,2,3],
+    "class": "PG",
+    "rating": 8.9,
+    "dub": true,
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adaccusantium expedita neque tempore molestiae vel aliquam, teneturvoluptatum temporibus. Cumque eveniet minus corporis debitis,optio est, earum nisi, natus veniam cupiditate delectus iusto.Odio doloribus adipisci nihil quod numquam quas.",
+    "genre": ["Game", "Fantazy", "Supernatural"],
+    "author": "Koyoharu Gotōge",
+    "license": "Wakanim",
+    "image": "sao.jpg"
+  },
+  {
+    "name": "The daily life of the immortal King",
+    "onGoing": {
+      "day": null,
+      "time": null,
+      "emitting": false
+    },
+    "episodes": 13,
+    "aired": 2020,
+    "seasons": [1],
+    "class": "PG",
+    "rating": 8.5,
+    "dub": true,
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adaccusantium expedita neque tempore molestiae vel aliquam, teneturvoluptatum temporibus. Cumque eveniet minus corporis debitis,optio est, earum nisi, natus veniam cupiditate delectus iusto.Odio doloribus adipisci nihil quod numquam quas.",
+    "genre": ["Seinen", "Romance", "Supernatural", "School"],
+    "author": "Koyoharu Gotōge",
+    "license": "Wakanim",
+    "image": "immortal-king.jpg"
+  },
+  {
+    "name": "Gleipnir",
+    "onGoing": {
+      "day": null,
+      "time": null,
+      "emitting": false
+    },
+    "episodes": 12,
+    "aired": 2020,
+    "seasons": [1],
+    "class": "R+",
+    "rating": 9,
+    "dub": true,
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adaccusantium expedita neque tempore molestiae vel aliquam, teneturvoluptatum temporibus. Cumque eveniet minus corporis debitis,optio est, earum nisi, natus veniam cupiditate delectus iusto.Odio doloribus adipisci nihil quod numquam quas.",
+    "genre": ["Seinen", "Drama", "Supernatural"],
+    "author": "Koyoharu Gotōge",
+    "license": "Wakanim",
+    "image": "gleipnir.jpg"
+  },
+  {
+    "name": "Tower of God",
+    "onGoing": {
+      "day": "wednesday",
+      "time": "8:00 AM",
+      "emitting": true
+    },
+    "episodes": 12,
+    "aired": 2020,
+    "seasons": [1],
+    "class": "PG",
+    "rating": 8.2,
+    "dub": true,
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adaccusantium expedita neque tempore molestiae vel aliquam, teneturvoluptatum temporibus. Cumque eveniet minus corporis debitis,optio est, earum nisi, natus veniam cupiditate delectus iusto.Odio doloribus adipisci nihil quod numquam quas.",
+    "genre": ["Seinen", "History", "Supernatural"],
+    "author": "Koyoharu Gotōge",
+    "license": "Wakanim",
+    "image": "god-tower.jpg"
+  },
+  {
+    "name": "No Guns Life",
+    "onGoing": {
+      "day": "tuesday",
+      "time": "10:15 PM",
+      "emitting": true
+    },
+    "episodes": 12,
+    "aired": 2018,
+    "seasons": [1],
+    "class": "R+",
+    "rating": 9.1,
+    "dub": true,
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adaccusantium expedita neque tempore molestiae vel aliquam, teneturvoluptatum temporibus. Cumque eveniet minus corporis debitis,optio est, earum nisi, natus veniam cupiditate delectus iusto.Odio doloribus adipisci nihil quod numquam quas.",
+    "genre": ["Seinen", "History", "Supernatural"],
+    "author": "Koyoharu Gotōge",
+    "license": "Wakanim",
+    "image": "guns-life.jpg"
+  },
+  {
+    "name": "Death Note",
+    "onGoing": {
+      "day": "sunday",
+      "time": "8:45 PM",
+      "emitting": true
+    },
+    "episodes": 43,
+    "aired": 2006,
+    "seasons": [1],
+    "class": "R+",
+    "rating": 9.9,
+    "dub": true,
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adaccusantium expedita neque tempore molestiae vel aliquam, teneturvoluptatum temporibus. Cumque eveniet minus corporis debitis,optio est, earum nisi, natus veniam cupiditate delectus iusto.Odio doloribus adipisci nihil quod numquam quas.",
+    "genre": ["Triller", "Drama", "Supernatural"],
+    "author": "Koyoharu Gotōge",
+    "license": "Wakanim",
+    "image": "death-note.jpg"
+  }
+]

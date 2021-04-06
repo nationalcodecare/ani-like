@@ -1,0 +1,20 @@
+html
+  head
+    meta(charset='UTF-8')
+    meta(name='viewport' content='width=device-width, initial-scale=1.0')
+    link(rel="stylesheet" href="/src/styles/css/App.css")
+    link(rel='shortcut icon' type='image/png' href='/src/styles/img/premiumlogo/logo.png')
+    link(href='https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=swap'
+    rel='stylesheet')
+    title Anime | #{title}
+  body
+    .error
+      .error__code 404
+      h3.error__message
+        | Ooops... Maybe this page moved? Got deleted? Is hiding out in quarantine? 
+        | Never existed in the first place?
+        p
+          | Let&apos;s go 
+          //- a.error__link(href='http://localhost:3000') home
+          a.error__link(href=`${process.env.NODE_ENV === 'production' ? 'https://ani-like.herokuapp.com/' : 'http://localhost:3000'}`) home
+          |  and try from there.

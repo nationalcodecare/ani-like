@@ -1,0 +1,14 @@
+html
+  head
+    meta(charset='UTF-8')
+    meta(name='viewport' content='width=device-width, initial-scale=1.0')
+    link(rel="stylesheet" href="/src/styles/css/App.css")
+    link(rel='shortcut icon' type='image/png' href='/src/styles/img/premiumlogo/logo.png')
+    link(href='https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=swap'
+    rel='stylesheet')
+    title Anime | #{title}
+  body
+    p(style={color: 'rose', fontSize: '2rem'})  Hi #{firstName},
+    p.error  Forgot your password? Submit a PATCH request with your new password and passwordConfirm
+    a.reset__password(href=`${url}`) Reset your password
+    p.accordion-item__header  If you didn't forget your password, please ignore this email!

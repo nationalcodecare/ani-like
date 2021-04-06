@@ -1,0 +1,48 @@
+export const FETCH_TITLES = 'FETCH_TITLES';
+export const FETCH_TOP_10 = 'FETCH_TOP_10';
+export const FETCH_SPECIFIC_TITLE = 'FETCH_SPECIFIC_TITLE';
+// Serach
+export const SEARCH_TITLES = 'SEARCH_TITLES';
+
+// API
+export const API_FAIL = 'API_FAIL';
+
+// AUTH
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_FAIL = 'REGISTER_FAIL';
+
+export const USER_LOADED = 'USER_LOADED';
+export const AUTH_ERROR = 'AUTH_ERROR';
+
+export const LOGOUT = 'LOGOUT';
+
+// Restore Password
+export const FORGOT_PASSWORD = 'FORGOT_PASSWORD';
+export const RESTORE_PASSWORD = 'RESTORE_PASSWORD';
+
+// Account management
+export const CHANGE_ACC_DETAILS_SUCCESS = 'CHANGE_ACC_DETAILS_SUCCESS';
+
+// Password change
+export const CHANGE_PASSWORD_SUCCESS = 'CHANGE_PASSWORD_SUCCESS';
+
+// Comments
+export const FETCH_USER_COMMENTS = 'FETCH_USER_COMMENTS';
+export const FETCH_TITLE_COMMENTS = 'FETCH_TITLE_COMMENTS';
+export const CREATE_COMMENT = 'CREATE_COMMENT';
+export const EDIT_USER_COMMENT = 'EDIT_USER_COMMENT';
+export const DELETE_USER_COMMENT = 'DELETE_USER_COMMENT';
+export const CURRENT_COMMENT_CLEAN_UP = 'CURRENT_COMMENT_CLEAN_UP';
+
+// Collection
+export const COLLECTION_UPDATED = 'COLLECTION_UPDATED';
+
+// ALERTS
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
+
+// Google auth
+export const GOOGLE_SIGN_IN = 'GOOGLE_SIGN_IN';
+export const GOOGLE_SIGN_IN_FAIL = 'GOOGLE_SIGN_IN_FAIL';

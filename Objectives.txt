@@ -1,0 +1,12 @@
+Today Tasks
+ 
+  ⚪ Async Actins testing   ✅
+
+  ⚪ Update sass for <Preview>    ✅
+
+  ⚪ Search specific title bug    ✅
+  
+  ⚪ Global Testing   
+
+  ⚪ AWS image loading      ✅
+
